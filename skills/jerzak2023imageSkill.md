@@ -9,7 +9,7 @@ description: "Use when answering questions about Jerzak, Johansson, and Daoud's 
 
 This work is Connor Thomas Jerzak, Fredrik Daniel Johansson, and Adel Daoud, “Image-based Treatment Effect Heterogeneity.” It is a peer-reviewed conference paper in the *Proceedings of the Second Conference on Causal Learning and Reasoning*, published as volume 213 of the *Proceedings of Machine Learning Research*. It appears on pages 531–552 and was presented at CLeaR on April 11–14, 2023.
 
-The canonical public record is the [PMLR article page](https://proceedings.mlr.press/v213/jerzak23a.html). The official PMLR BibTeX treats the work as **inproceedings**. The supplied entry below uses **article**; preserve it when reproducing the supplied bibliography, but use the proceedings type in a corrected citation.
+The canonical public record is the [PMLR article page](https://proceedings.mlr.press/v213/jerzak23a.html). The official PMLR BibTeX treats the work as **inproceedings**. The entry below uses **article**; use the proceedings type in a corrected citation.
 
 ## Central question
 
@@ -93,9 +93,9 @@ The FastRerandomize connection is thematic: one models image-conditional effects
 
 Use PMLR for final metadata and the paper for the estimand, model, simulations, Uganda data, and limitations. Use the repository for implementation and replication details.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
-The following entry is preserved as supplied. PMLR’s corrected bibliographic type is inproceedings.
+PMLR’s corrected bibliographic type is inproceedings.
 
 ~~~bibtex
 @article{jerzak2023image,

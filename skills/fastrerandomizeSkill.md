@@ -98,7 +98,7 @@ The most direct connection is to Jerzak’s broader work on research design and 
 
 Use the journal record for final citation metadata, CRAN and project documentation for current package behavior, and the article plus benchmark data for performance claims.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
 ~~~bibtex
 @article{fastrerandomize,

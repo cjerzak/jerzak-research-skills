@@ -91,7 +91,7 @@ This article extends Jerzak's work on scalable measurement from unstructured dat
 - [Harvard Dataverse](https://doi.org/10.7910/DVN/EHRQQL): data and replication resource.
 - [`LinkOrgs` GitHub repository](https://github.com/cjerzak/LinkOrgs-software): open-source implementation.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
 ```bibtex
 @article{LibgoberJerzak2025,

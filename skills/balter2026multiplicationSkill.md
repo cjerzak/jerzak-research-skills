@@ -76,9 +76,9 @@ The benchmark shows that multimodal arithmetic should not be summarized by final
 - DOI: <https://doi.org/10.18653/v1/2026.findings-acl.2025>
 - Public preprint: <https://arxiv.org/abs/2604.18203>
 - Dataset: <https://huggingface.co/datasets/cjerzak/MultimodalMathBenchmarks>
-- Supplied bibliography: `JerzakConnorBib.txt`, key `balter2026multiplication`
+- BibTeX key: `balter2026multiplication`
 
-## Exact supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @inproceedings{balter2026multiplication,
@@ -91,6 +91,6 @@ The benchmark shows that multimodal arithmetic should not be summarized by final
 }
 ```
 
-## Official metadata enrichment (separate from the supplied record)
+## Official ACL Anthology metadata
 
 The ACL Anthology adds `pages = {40766--40780}`, `publisher = {Association for Computational Linguistics}`, `doi = {10.18653/v1/2026.findings-acl.2025}`, and `url = {https://aclanthology.org/2026.findings-acl.2025/}`. Its canonical ACL Anthology BibTeX key is `balter-etal-2026-multiplication`.

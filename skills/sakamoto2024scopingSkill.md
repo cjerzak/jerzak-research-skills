@@ -9,7 +9,7 @@ description: "Use when answering questions about Sakamoto, Jerzak, and Daoud's s
 
 This work is Kazuki Sakamoto, Connor T. Jerzak, and Adel Daoud, “A Scoping Review of Earth Observation and Machine Learning for Causal Inference: Implications for the Geography of Poverty.” It is chapter 9 in the edited volume *The Geography of Poverty: Theories, Data and Methods, and Case Studies*, edited by Ola Hall and Ibrahim Wahab and published by Edward Elgar.
 
-The key retains 2024 because the preprint appeared that year. The publisher lists the book as not yet published, expected in October 2026, with the chapter beginning on page 165. Although arXiv and the supplied BibTeX retain an older 2025 projection, describe the chapter as **forthcoming in October 2026** and prefer the publisher’s status.
+The key retains 2024 because the preprint appeared that year. The publisher lists the book as not yet published, expected in October 2026, with the chapter beginning on page 165. Although arXiv and the BibTeX entry below retain an older 2025 projection, describe the chapter as **forthcoming in October 2026** and prefer the publisher’s status.
 
 ## Central question
 
@@ -87,9 +87,9 @@ The treatment-leakage connection is conceptual: the text paper develops the prob
 
 Use Edward Elgar for publication status, date, book title, editors, and chapter placement. Use the latest arXiv version for the chapter’s review methods and substantive content until the final book version is released.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
-The following entry is preserved as supplied. Its projected year of 2025 is now outdated relative to the publisher’s October 2026 schedule.
+This entry’s projected year of 2025 is now outdated relative to the publisher’s October 2026 schedule.
 
 ~~~bibtex
 @incollection{sakamoto2024scoping,

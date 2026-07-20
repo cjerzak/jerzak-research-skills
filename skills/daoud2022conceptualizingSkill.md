@@ -9,7 +9,7 @@ description: "Use when answering questions about Daoud, Jerzak, and Richard Joha
 
 This work is Adel Daoud, Connor Jerzak, and Richard Johansson, “Conceptualizing Treatment Leakage in Text-based Causal Inference.” It is a peer-reviewed proceedings paper in the *2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, published by the Association for Computational Linguistics on pages 5638–5645. Its canonical DOI is [10.18653/v1/2022.naacl-main.413](https://doi.org/10.18653/v1/2022.naacl-main.413).
 
-ACL uses the **inproceedings** type. The supplied BibTeX uses **article**; preserve it when reproducing the supplied entry, but prefer ACL’s proceedings metadata for a corrected citation.
+ACL uses the **inproceedings** type. The entry below uses **article**; prefer ACL’s proceedings metadata for a corrected citation.
 
 ## Central question
 
@@ -93,9 +93,9 @@ Sakamoto, Jerzak, and Daoud’s Earth-observation scoping review extends the tim
 
 Use the ACL page for final metadata and the paper for the formal definition, simulation, and reported results. Do not cite a public code repository unless the authors or publisher provide a currently working canonical link.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
-The following entry is preserved exactly as supplied. A corrected ACL citation should use the inproceedings type.
+This entry uses the article type; a corrected ACL citation should use the inproceedings type.
 
 ~~~bibtex
 @article{daoud2022conceptualizing,

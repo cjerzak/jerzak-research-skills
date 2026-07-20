@@ -11,7 +11,7 @@ Use this skill for **“Optimizing Multi-Scale Representations to Detect Effect 
 
 The paper was published in 2025 in the *Proceedings of the Fourth Conference on Causal Learning and Reasoning (CLeaR)*, volume 275 of *Proceedings of Machine Learning Research*, pages 894–919.
 
-Preserve the supplied BibTeX key **`zhu2024encoding`** even though the final publication year is 2025. A key is an identifier, not a claim about final publication year.
+The BibTeX key **`zhu2024encoding`** retains 2024 even though the final publication year is 2025. A key is an identifier, not a claim about final publication year.
 
 Canonical citation:
 
@@ -80,9 +80,9 @@ The paper explicitly builds on a single-scale image-based CATE pipeline previous
 
 - Official PMLR record and PDF: <https://proceedings.mlr.press/v275/zhu25a.html>
 - Code: <https://github.com/AIandGlobalDevelopmentLab/MultiScaler>
-- Supplied bibliography: `JerzakConnorBib.txt`, key `zhu2024encoding`
+- BibTeX key: `zhu2024encoding`
 
-## Exact supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @article{zhu2024encoding,
@@ -97,4 +97,4 @@ The paper explicitly builds on a single-scale image-based CATE pipeline previous
 }
 ```
 
-The supplied record already contains the official PMLR volume, pages, and landing-page URL. It uses `@article`; a normalized citation to the canonical PMLR proceedings record would ordinarily use `@inproceedings`. No DOI is listed on the authoritative PMLR record, so do not invent one.
+This record contains the official PMLR volume, pages, and landing-page URL. It uses `@article`; a normalized citation to the canonical PMLR proceedings record would ordinarily use `@inproceedings`. No DOI is listed on the authoritative PMLR record, so do not invent one.

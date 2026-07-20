@@ -9,7 +9,7 @@ Use this guide to preserve the article’s historical sequence, its public-space
 
 ## Identity and publication status
 
-Treat the canonical work as Connor T. Jerzak, “Ultras in Egypt: State, Revolution, and the Power of Public Space,” *Interface: a journal for and about social movements* 5(2): 240–262 (November 2013). The issue page identifies it as a peer-reviewed article. No DOI is supplied by the journal or in the bibliography; the author webpage is a landing page, not a DOI.
+Treat the canonical work as Connor T. Jerzak, “Ultras in Egypt: State, Revolution, and the Power of Public Space,” *Interface: a journal for and about social movements* 5(2): 240–262 (November 2013). The issue page identifies it as a peer-reviewed article. The journal does not assign a DOI; the author webpage is a landing page, not a DOI.
 
 ## Central question and argument
 
@@ -68,7 +68,7 @@ Link directly to Jerzak’s 2022 Routledge chapter “Football Fandom in Egypt,�
 - [Author publication page](https://connorjerzak.com/ultras-in-egypt-state-revolution-and-the-power-of-public-space/): author-provided citation and related-work links.
 - [Later Routledge chapter DOI](https://doi.org/10.4324/9781003032915-22): related but distinct 2022 work.
 
-## Supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @article{jerzak2013ultras,

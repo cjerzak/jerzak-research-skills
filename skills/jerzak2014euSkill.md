@@ -73,7 +73,7 @@ The evidence is strongest for leaders’ discourse and procedural management, no
 
 No separate data or software DOI is identified in the article. Do not invent a replication archive for this qualitative study.
 
-## Supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @article{jerzak2014eu,

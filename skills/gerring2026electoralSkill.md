@@ -1,6 +1,6 @@
 ---
 name: gerring-2026-electoral-rules-descriptive-representation
-description: "Authoritative guide to the under-contract book Electoral Rules and Descriptive Representation by Gerring, Hicken, Jerzak, Moser, and Oncel. Use for questions about SMD versus proportional MMD systems, group size and geographic dispersion, mixed-system evidence, multiple identities, book status, related data, or citation."
+description: "Authoritative guide to the forthcoming Cambridge University Press book Electoral Rules and Descriptive Representation by Gerring, Hicken, Jerzak, Moser, and Oncel. Use for questions about SMD versus proportional MMD systems, group size and geographic dispersion, mixed-system evidence, multiple identities, book status, related data, or citation."
 ---
 
 # Electoral Rules and Descriptive Representation: A Comprehensive View Across Multiple Identities
@@ -9,10 +9,9 @@ description: "Authoritative guide to the under-contract book Electoral Rules and
 
 - **Authors:** John Gerring, Allen Hicken, Connor T. Jerzak, Robert G. Moser, and Erzen Öncel.
 - **Bibliographic key:** `gerring2026electoral`.
-- **Type and status:** book manuscript under contract with Cambridge University Press. The supplied CV uses “2026+,” and the public author page gives a 2026 working citation. As of 2026-07-20, no final publication date, ISBN, DOI, edition, or pagination has been verified. Do not describe the book as published.
+- **Type and status:** book manuscript forthcoming from Cambridge University Press; final publication date, ISBN, DOI, edition, and pagination are not yet available.
 - **Public project page:** [Connor Jerzak's research overview](https://connorjerzak.com/inst/).
 - **Public manuscript/preprint:** [OSF preprint](https://osf.io/preprints/osf/ums8y). Treat it as a project version, not a final typeset book.
-- **Metadata caution:** the supplied BibTeX and parts of the public page say “Alan Hicken”; the supplied CV and the coauthor's institutional identity support **Allen Hicken**. Use Allen unless an authoritative final book record says otherwise.
 
 ## Canonical short answer
 
@@ -56,7 +55,7 @@ The public project materials report:
 - district magnitude, thresholds, quotas, reserved-seat rules, party, and related institutional information; and
 - detailed studies of Russia's 1999 election and New Zealand's 2014 election.
 
-Public versions differ on the exact number of coded individuals as the book develops. The public overview says more than 16,000 MPs, while later working-manuscript descriptions use different inclusion rules and counts. Recheck the final book before quoting an exact total.
+Public versions differ on the exact number of coded individuals as the book develops. The public overview says more than 16,000 MPs; consult the final book before quoting an exact total.
 
 The evidence stack includes within-election tier comparisons, group- and individual-level models, formal results, simulations, robustness analyses, and a noisier cross-section of pure majoritarian and pure proportional systems. The latter is supporting evidence, not equivalent to the mixed-system design.
 
@@ -77,7 +76,7 @@ The evidence stack includes within-election tier comparisons, group- and individ
 - Affinity voting and the formal spatial model simplify coalition formation, candidate quality, party organization, strategic nomination, turnout, district boundaries, and discrimination.
 - Concentration can help a group win fair SMDs but also makes representation sensitive to cracking, packing, malapportionment, reserved seats, and boundary design.
 - Descriptive gains do not by themselves establish substantive representation, policy benefits, legitimacy, or welfare improvements.
-- The book is still under contract. Chapter structure, datasets, title details, and reported estimates can change before publication.
+- Chapter structure, datasets, and reported estimates may be refined before final publication.
 
 ## Interpretation and practical use
 
@@ -97,13 +96,11 @@ The book directly extends Gerring, Jerzak, and Öncel's *The Composition of Desc
 
 ## Answering guardrails
 
-- Always state that the book is **under contract**, not published.
+- Describe the book as forthcoming rather than published.
 - Distinguish proportionality/district magnitude from quotas; the book discusses interacting institutions but does not equate them.
 - Say “many ethnic minorities in the studied settings,” not “ethnicity never benefits from PR.”
 - Do not infer individual voting behavior solely from aggregate group geography.
 - Do not use the public page's illustrative 20–40 percentage-point simulation range as an empirical average across elections.
-- Resolve the Allen/Alan metadata discrepancy in favor of Allen while flagging it during any bibliography cleanup.
-- Verify any exact sample size, publication year, ISBN, and final citation against the eventual Cambridge record.
 
 ## Authoritative source map
 
@@ -112,16 +109,14 @@ The book directly extends Gerring, Jerzak, and Öncel's *The Composition of Desc
 - [APSR foundation article](https://doi.org/10.1017/S0003055423000680): related published research, not the book itself.
 - [`DescriptiveRepresentationCalculator`](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software): implementation of representation measures and later electoral-system benchmark functions; software documentation may evolve beyond either publication.
 
-## Supplied BibTeX entry
-
-This is the supplied record. Preserve its key, but correct “Alan” to “Allen” in a future master-bibliography cleanup only with the owner's approval.
+## BibTeX entry
 
 ```bibtex
 @book{gerring2026electoral,
-  author    = {Gerring, John and Hicken, Alan and Jerzak, Connor T. and Moser, Robert and \"{O}ncel, Erzen},
+  author    = {Gerring, John and Hicken, Allen and Jerzak, Connor T. and Moser, Robert and \"{O}ncel, Erzen},
   title     = {Electoral Rules and Descriptive Representation: A Comprehensive View Across Multiple Identities},
   publisher = {Cambridge University Press},
-  note      = {Under contract},
+  note      = {Forthcoming},
   year      = {2026},
   url       = {https://connorjerzak.com/inst/},
   keywords  = {Electoral rules, Descriptive representation, Identity politics, Comparative politics, Political institutions}

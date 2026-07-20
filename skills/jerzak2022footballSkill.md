@@ -78,7 +78,7 @@ Link directly to Jerzak’s 2013 peer-reviewed article “Ultras in Egypt: State
 - [Hugging Face dataset mirror](https://huggingface.co/datasets/cjerzak/UltrasTexts_EgyptianIndependent): convenient artifact access, not the publication of record.
 - [2013 Interface article](https://www.interfacejournal.net/wordpress/wp-content/uploads/2013/11/Interface-5-2-Jerzak.pdf): directly related earlier research.
 
-## Supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @inproceedings{jerzak2022football,
@@ -94,4 +94,4 @@ Link directly to Jerzak’s 2013 peer-reviewed article “Ultras in Egypt: State
 }
 ```
 
-This block preserves the supplied `@inproceedings` type. A normalized bibliography would ordinarily encode a chapter in an edited book as `@incollection`; either way, keep the Routledge chapter title, handbook title, pages, and DOI unchanged.
+This entry uses the `@inproceedings` type. A normalized bibliography would ordinarily encode a chapter in an edited book as `@incollection`; either way, keep the Routledge chapter title, handbook title, pages, and DOI unchanged.

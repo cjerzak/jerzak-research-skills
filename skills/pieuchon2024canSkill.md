@@ -9,7 +9,7 @@ description: "Use when answering questions about de Pieuchon, Daoud, Jerzak, Moa
 
 This work is Nicolas Audinet de Pieuchon, Adel Daoud, Connor T. Jerzak, Moa Johansson, and Richard Johansson, “Can Large Language Models (or Humans) Disentangle Text?” It is a peer-reviewed conference-workshop paper in the *Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS 2024)*, held in Mexico City in June 2024. The Association for Computational Linguistics published it on pages 57–67 with DOI [10.18653/v1/2024.nlpcss-1.5](https://doi.org/10.18653/v1/2024.nlpcss-1.5).
 
-The authoritative ACL record classifies it as an **inproceedings** publication. The supplied BibTeX uses **article** and a journal field for the proceedings title; retain that supplied entry when requested, but use the ACL entry type for a corrected bibliography.
+The authoritative ACL record classifies it as an **inproceedings** publication. The entry below uses **article** with a journal field for the proceedings title; use the ACL entry type for a corrected bibliography.
 
 ## Central question
 
@@ -97,9 +97,9 @@ The Earth-observation scoping-review connection is thematic: both warn that lear
 
 Use the ACL Anthology for canonical metadata and the paper for the exact sample, prompts, evaluation, and uncertainty. Use the repository and Dataverse record for replication materials.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
-The following entry is preserved as supplied. For a corrected citation, use an inproceedings entry as shown on the ACL Anthology.
+For a corrected citation, use an inproceedings entry as shown on the ACL Anthology.
 
 ~~~bibtex
 @article{pieuchon2024can,

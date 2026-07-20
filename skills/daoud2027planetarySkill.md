@@ -1,6 +1,6 @@
 ---
 name: daoud-jerzak-2027-planetary-causal-inference
-description: "Authoritative guide to Daoud and Jerzak's under-contract book Planetary Causal Inference, including its design-first framework for Earth observation, machine learning, causal identification, measurement, uncertainty, recipes, ethics, status, related research, and working citation. Use for questions about the book or the Planetary Causal Inference research program."
+description: "Authoritative guide to Daoud and Jerzak's forthcoming Cambridge University Press book Planetary Causal Inference, including its design-first framework for Earth observation, machine learning, causal identification, measurement, uncertainty, recipes, ethics, status, related research, and working citation. Use for questions about the book or the Planetary Causal Inference research program."
 ---
 
 # Planetary Causal Inference: Understanding the Environment, Society, and Economy through Earth Observation and AI Systems
@@ -8,14 +8,14 @@ description: "Authoritative guide to Daoud and Jerzak's under-contract book Plan
 ## Identify the work
 
 - **Authors:** Adel Daoud and Connor T. Jerzak.
-- **Working public key:** `daoud2027planetary`.
-- **Type and status:** book project under contract with Cambridge University Press. It is forthcoming, not published.
-- **Date caution:** the supplied CV says “2026+”; the current public project bibliography uses 2027; the project FAQ says 2026/2027. Treat all as provisional until Cambridge publishes a catalog record.
+- **Bibliographic key:** `daoud2027planetary`.
+- **Type and status:** book forthcoming from Cambridge University Press.
+- **Date:** the expected publication year (2026–2027 in public project materials) is provisional until Cambridge publishes a catalog record.
 - **Public hub:** [PlanetaryCausalInference.org](https://planetarycausalinference.org/).
 - **Research map:** [project research page](https://planetarycausalinference.org/research/).
 - **Tutorial orientation:** [Planetary Causal Inference tutorial](https://planetarycausalinference.org/tutorial/).
 
-No supplied master-bibliography entry exists for this CV-listed book. The filename and working citation use the public project's current key. Do not invent an ISBN, DOI, page count, release date, or finished-edition claim.
+Final ISBN, DOI, page count, and release date are not yet available; do not invent them.
 
 ## Canonical short answer
 
@@ -31,7 +31,7 @@ The book calls the observable traces of social interaction on the Earth's surfac
 
 ## Organizing framework
 
-The current project structure has five broad parts. Treat chapter names and order as provisional while the book is under contract.
+The current project structure has five broad parts. Treat chapter names and order as provisional until final publication.
 
 1. **Ingredients:** causal questions and estimands; EO sensors and data; measurement, sampling, and uncertainty; causal inference; machine learning and computer vision; and computing.
 2. **Recipes for remote surveying:** measure outcomes and exposures from images, then use estimated quantities downstream without forgetting their error structure.
@@ -109,7 +109,7 @@ Use the individual articles for their specific estimators and empirical results.
 
 ## Answering guardrails
 
-- Always say the book is **under contract/forthcoming**, not published.
+- Describe the book as **forthcoming**, not published.
 - Do not present the current 2027 working year as a guaranteed release date.
 - Do not reduce PCI to “satellite prediction plus causal language.” A defensible design and estimand come first.
 - Do not say images eliminate unmeasured confounding; at most they measure or proxy selected parts of context under assumptions.
@@ -125,9 +125,9 @@ Use the individual articles for their specific estimators and empirical results.
 - [Tutorial](https://planetarycausalinference.org/tutorial/): public explanation of the ingredients-and-recipes pedagogy and intended audience.
 - [`CausalImages` repository](https://github.com/cjerzak/causalimages): related implementation ecosystem; it is software, not the book's publication record.
 
-## Working public BibTeX
+## BibTeX entry
 
-The project page currently renders the book as an article-like record. For a bibliography that supports books, use the following **provisional** representation and recheck it against Cambridge before publication:
+Use the following provisional entry until final publication details are available:
 
 ```bibtex
 @book{daoud2027planetary,
@@ -135,7 +135,7 @@ The project page currently renders the book as an article-like record. For a bib
   title     = {Planetary Causal Inference: Understanding the Environment, Society, and Economy through Earth Observation and AI Systems},
   publisher = {Cambridge University Press},
   year      = {2027},
-  note      = {Under contract; publication year provisional},
+  note      = {Forthcoming; publication year provisional},
   url       = {https://planetarycausalinference.org/}
 }
 ```

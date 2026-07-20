@@ -9,7 +9,7 @@ Use this skill for **“MiniMax Learning of Interpretable Factored Stochastic Po
 
 ## Identity, citation, and current status
 
-The paper is an **ICML 2026 publication**. The official ICML virtual-poster page identifies the title and authors, while the public preprint provides the technical details. As of 2026-07-20, do not add a PMLR volume, page range, or DOI unless a later official proceedings record supplies them.
+The paper is an **ICML 2026 publication**. The official ICML virtual-poster page identifies the title and authors, while the public preprint provides the technical details. Do not add a PMLR volume, page range, or DOI until an official proceedings record supplies them.
 
 Recommended citation with currently verified fields:
 
@@ -72,9 +72,9 @@ The paper reframes conjoint analysis from estimating isolated average effects to
 
 - Official ICML page: <https://icml.cc/virtual/2026/poster/65152>
 - Public preprint: <https://arxiv.org/abs/2504.19043>
-- Supplied bibliography: `JerzakConnorBib.txt`, key `jerzak2026minimax`
+- BibTeX key: `jerzak2026minimax`
 
-## Exact supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @inproceedings{jerzak2026minimax,

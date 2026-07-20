@@ -105,7 +105,7 @@ This article is the direct foundation for the under-contract book *Electoral Rul
 - [`DescriptiveRepresentationCalculator` repository](https://github.com/cjerzak/DescriptiveRepresentationCalculator-software): implementation, documentation, and later extensions.
 - [CRAN package record](https://doi.org/10.32614/CRAN.package.DescriptiveRepresentationCalculator): stable software identifier, not the article DOI.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
 ```bibtex
 @article{gerring2024composition,

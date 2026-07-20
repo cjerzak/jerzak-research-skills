@@ -69,7 +69,7 @@ The study lacks individual-level measurements jointly linking home appreciation,
 - [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2780539): working-paper history and DOI 10.2139/ssrn.2780539, not the journal DOI.
 - [Author’s study overview](https://connorjerzak.com/politics-of-ezpass-summary/): accessible summary and routing to paper and data; defer to the published PDF for exact methods and claims.
 
-## Supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @article{jerzak2020impact,

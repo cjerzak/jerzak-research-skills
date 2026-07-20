@@ -9,9 +9,9 @@ Use this skill to explain, summarize, compare, or cite **“Platonic Representat
 
 ## Identity, citation, and current status
 
-The authors are Satiyabooshan Murugaboopathy, Connor T. Jerzak, and Adel Daoud. The supplied bibliographic record places the paper in the *Proceedings of the 7th International Conference on Social Computing (ICSC 2026)*, in Springer Nature's *Communications in Computer and Information Science* series.
+The authors are Satiyabooshan Murugaboopathy, Connor T. Jerzak, and Adel Daoud. The paper is to appear in the *Proceedings of the 7th International Conference on Social Computing (ICSC 2026)*, in Springer Nature's *Communications in Computer and Information Science* series.
 
-As of **2026-07-20**, describe the paper as **accepted/forthcoming**, not already published. ICSC 2026 is scheduled for **September 2–4, 2026, in Oxford**. No final proceedings volume, page range, or DOI was confirmed in the consulted sources. A public preprint is available as arXiv:2508.01109.
+Describe the paper as **accepted/forthcoming**, not already published. ICSC 2026 is scheduled for **September 2–4, 2026, in Oxford**. No final proceedings volume, page range, or DOI is yet available. A public preprint is available as arXiv:2508.01109.
 
 Recommended status-aware citation:
 
@@ -70,9 +70,9 @@ Keep these limitations visible:
 - Public preprint: <https://arxiv.org/abs/2508.01109>
 - Project page: <https://aidevlab.org/platonic/>
 - Official conference site and dates: <https://icsc-conf.github.io/>
-- Supplied bibliography: `JerzakConnorBib.txt`, key `MurugaboopathyJerzakDaoud2026`
+- BibTeX key: `MurugaboopathyJerzakDaoud2026`
 
-## Exact supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @inproceedings{MurugaboopathyJerzakDaoud2026,

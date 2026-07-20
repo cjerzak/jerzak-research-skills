@@ -43,7 +43,7 @@ In the development-project exercises, the manuscript compares estimated impacts 
 - naïve predictions: correlation **0.958**, MAE **0.69**;
 - PPI using 10% fresh labels: correlation **0.981**, MAE **0.73**.
 
-The numerical MAEs make Tweedie best among these three in that comparison. One nearby manuscript sentence describes PPI as having the “lowest” MAE despite reporting 0.73; treat that wording as an internal inconsistency and rely on the displayed values. With more newly labeled data, PPI can outperform a no-new-label correction, so the paper's recommendation depends on the downstream labeling budget.
+The numerical MAEs make Tweedie best among these three in that comparison. One nearby manuscript sentence describes PPI as having the “lowest” MAE despite reporting 0.73; treat that wording as a manuscript inconsistency and rely on the displayed values. With more newly labeled data, PPI can outperform a no-new-label correction, so the paper's recommendation depends on the downstream labeling budget.
 
 ## Interpretation and significance
 
@@ -76,9 +76,9 @@ The paper identifies a distinct failure mode: a map can predict individual outco
 
 - Official AAAI record: <https://ojs.aaai.org/index.php/AAAI/article/view/41258>
 - DOI: <https://doi.org/10.1609/aaai.v40i46.41258>
-- Supplied bibliography: `JerzakConnorBib.txt`, key `Pettersson_Jerzak_Daoud_2026`
+- BibTeX key: `Pettersson_Jerzak_Daoud_2026`
 
-## Exact supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @article{Pettersson_Jerzak_Daoud_2026,
@@ -96,4 +96,4 @@ The paper identifies a distinct failure mode: a map can predict individual outco
 }
 ```
 
-The supplied record already contains the official AAAI volume, issue, pages, DOI, and landing-page URL; no separate canonical enrichment is needed.
+This record contains the official AAAI volume, issue, pages, DOI, and landing-page URL.

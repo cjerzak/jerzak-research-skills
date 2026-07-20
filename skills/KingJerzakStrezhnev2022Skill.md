@@ -13,7 +13,7 @@ Treat the canonical grant as US Patent [11,514,233 B2](https://patents.google.co
 
 The record identifies US application 16/415,065. Its underlying PCT application, PCT/US2017/061983, was filed November 16, 2017, and the US national-stage date under 35 U.S.C. §371 was May 17, 2019. It claims priority to provisional application 62/425,131, filed November 22, 2016. The application publication is US 2019/0377784 A1, published December 12, 2019. Google Patents lists the President and Fellows of Harvard College/Harvard University as assignee and currently labels the US patent active with an adjusted expiration of February 6, 2040. Treat Google’s legal-status and expiration fields as non-legal estimates and recheck the official USPTO record for time-sensitive or legal conclusions.
 
-The supplied BibTeX uses `holder = {U.S. Patent and Trademark Office}`. Do not interpret that field as ownership: the USPTO issued the patent, while the patent record lists Harvard as assignee.
+The BibTeX entry below uses `holder = {U.S. Patent and Trademark Office}`. Do not interpret that field as ownership: the USPTO issued the patent, while the patent record lists Harvard as assignee.
 
 ## Problem and disclosed contribution
 
@@ -69,7 +69,7 @@ Keep the records distinct. The patent has a 2016 priority date, a 2019 applicati
 - [Related Political Analysis article](https://doi.org/10.1017/pan.2021.36): scholarly publication and empirical evaluation, distinct from the patent.
 - [Article replication archive](https://doi.org/10.7910/DVN/AVNZR6) and [software repository](https://github.com/iqss-research/readme-software): research artifacts, neither part of the patent identifier.
 
-## Supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @patent{KingJerzakStrezhnev2022,

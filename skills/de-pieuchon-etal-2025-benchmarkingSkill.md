@@ -78,9 +78,9 @@ The paper directly cites de Pieuchon, Daoud, Jerzak, Johansson, and Johansson's 
 - DOI: <https://doi.org/10.18653/v1/2025.emnlp-main.1000>
 - Benchmark data: <https://huggingface.co/datasets/nicaudinet/llm-debiasing-benchmark>
 - Code: <https://github.com/nicaudinet/llm-debiasing-benchmark>
-- Supplied bibliography: `JerzakConnorBib.txt`, key `de-pieuchon-etal-2025-benchmarking`
+- BibTeX key: `de-pieuchon-etal-2025-benchmarking`
 
-## Exact supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @inproceedings{de-pieuchon-etal-2025-benchmarking,
@@ -99,4 +99,4 @@ The paper directly cites de Pieuchon, Daoud, Jerzak, Johansson, and Johansson's 
 }
 ```
 
-The supplied record already contains the canonical ACL venue, editors, pages, DOI, URL, and ISBN. The ACL Anthology key is likewise `de-pieuchon-etal-2025-benchmarking`.
+This record contains the canonical ACL venue, editors, pages, DOI, URL, and ISBN. The ACL Anthology key is likewise `de-pieuchon-etal-2025-benchmarking`.

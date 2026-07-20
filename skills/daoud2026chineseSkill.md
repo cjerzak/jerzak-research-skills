@@ -82,7 +82,7 @@ A connection to the treatment-leakage work is thematic: both warn that learned r
 
 Use the DOI record for canonical publication metadata and the full text for study design, estimates, robustness checks, and limitations.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
 ~~~bibtex
 @article{daoud2026chinese,

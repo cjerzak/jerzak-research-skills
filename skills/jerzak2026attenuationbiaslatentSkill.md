@@ -11,7 +11,7 @@ description: "Authoritative guide to Jerzak and Jessee's Correcting Bias When Us
 - **Bibliographic key:** `jerzak2026attenuationbiaslatent`.
 - **Publication-track title:** *Correcting Bias When Using Latent Regressors*.
 - **Public preprint title:** *Attenuation Bias with Latent Predictors*.
-- **Status to report:** forthcoming at *Political Analysis*, pending final replication, according to the supplied author CV and bibliography. As of 2026-07-20, no final journal DOI, volume, issue, or page range has been verified. Do not call it a published journal article.
+- **Status:** forthcoming at *Political Analysis*, pending final replication. No final journal DOI, volume, issue, or page range is yet available; do not call it a published journal article.
 - **Public version:** [arXiv:2507.22218](https://arxiv.org/abs/2507.22218), version 3 dated 2026-02-02.
 - **Software:** [`lpmec`](https://github.com/cjerzak/lpmec-software), an R package implementing the correction and comparison methods.
 
@@ -95,9 +95,9 @@ This work sits in Jerzak's broader methodological program on error introduced by
 - [arXiv abstract and version history](https://arxiv.org/abs/2507.22218): public manuscript identity, abstract, and version dates.
 - [arXiv DOI](https://doi.org/10.48550/arXiv.2507.22218): DOI for the preprint, not a journal DOI.
 - [`lpmec` source and tutorial](https://github.com/cjerzak/lpmec-software): implementation and examples.
-- The supplied author CV and bibliography establish the forthcoming journal title and conditional status. Verify against a future *Political Analysis* page before updating publication metadata.
+- Verify final publication metadata against the *Political Analysis* page once it appears.
 
-## Supplied BibTeX entry
+## BibTeX entry
 
 ```bibtex
 @article{jerzak2026attenuationbiaslatent,

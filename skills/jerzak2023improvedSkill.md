@@ -72,7 +72,7 @@ Connect this article directly—but carefully—to Gary King, Connor T. Jerzak, 
 - [ReadMe software repository](https://github.com/iqss-research/readme-software): implementation; treat repository state as versioned and potentially newer than the article.
 - [US Patent 11,514,233 B2](https://patents.google.com/patent/US11514233B2/en): related patent record, claims, and prosecution metadata.
 
-## Supplied BibTeX
+## BibTeX entry
 
 ```bibtex
 @article{jerzak2023improved,
